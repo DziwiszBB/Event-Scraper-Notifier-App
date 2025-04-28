@@ -68,7 +68,25 @@ This project automatically monitors a webpage for new event announcements. If a 
 
 ## 📸 Screenshots
 
-(*Add screenshots of terminal outputs or database view here*)
+### 1. Web Page Scraping
+View of the website showing an upcoming concert event extracted by the application.
+
+![Web Scraping View](screenshots/Scrape1.png)
+
+### 2. Terminal Output
+Terminal output showing detected new events and their storage.
+
+![Terminal Output](screenshots/Scrape2.png)
+
+### 3. Database Records
+View of the SQLite database containing scraped event information.
+
+![Database Records](screenshots/Scrape3.png)
+
+### 4. Email Notification
+Example of an automated email notification about a newly found event.
+
+![Email Notification](screenshots/Scrape4.png)
 
 ## 📄 License
 
