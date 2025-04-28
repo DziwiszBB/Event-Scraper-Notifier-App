@@ -26,7 +26,7 @@ This project automatically monitors a webpage for new event announcements. If a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/event-scraper-email-notifier.git
+   git clone https://github.com/DziwiszBB/event-scraper-email-notifier.git
    cd event-scraper-email-notifier
    ```
 
